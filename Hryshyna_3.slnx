@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AreaCalculator_3/AreaCalculator_3.csproj" />
+  <Project Path="ReverseNumber_1/ReverseNumber_1.csproj" />
+  <Project Path="TextModifier_4/TextModifier_4.csproj" />
+  <Project Path="WordRemover_2/WordRemover_2.csproj" />
+</Solution>
